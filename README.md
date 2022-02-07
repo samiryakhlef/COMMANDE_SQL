@@ -30,3 +30,4 @@ UPDATE IMC SET poids=20 WHERE poids > 80
 question 8
 DELETE FROM IMC WHERE nom = 'nom80';
 >>>>>>> c3500eb51f54145b1c1239b9e5c1dd9e4c02b4e6
+# combat_game
